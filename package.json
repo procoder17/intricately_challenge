@@ -16,7 +16,7 @@
     "start": "npm run dev"
   },
   "keywords": [],
-  "author": "",
+  "author": "James Chan",
   "license": "ISC",
   "dependencies": {
     "vue": "2.6.8",

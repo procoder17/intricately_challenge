@@ -12,3 +12,13 @@ All commands described in this document should be executed from the project's ro
 ## Getting Started
 
 Clone the repo, install all project's dependencies with `npm install`, and run `npm start`. When it's done building, the app is accessible from `localhost:8080`.
+
+
+## Run Project
+
+npm install
+npm start
+
+## Run Test
+
+npm test 
