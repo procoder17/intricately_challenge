@@ -17,6 +17,7 @@ Clone the repo, install all project's dependencies with `npm install`, and run `
 ## Run Project
 
 npm install
+
 npm start
 
 ## Run Test
